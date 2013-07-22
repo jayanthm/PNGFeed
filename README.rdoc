@@ -1,3 +1,5 @@
 == README
 
 Source code for http://pngfeed.com
+
+PNGFeed is a picture aggregator for Reddit, Facebook, and Instagram.
